@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://shivam.singh/sitemap.xml
-Host: https://shivam.singh
+Sitemap: https://singhshivam.github.io/sitemap.xml
+Host: https://singhshivam.github.io
