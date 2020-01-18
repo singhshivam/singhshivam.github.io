@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{SqBY:function(e,n,t){"use strict";t.r(n),t.d(n,"pageQuery",(function(){return c}));var a=t("q1tI"),i=t.n(a),l=t("TJpk"),r=t("Kvkj");n.default=function(e){var n=e.location;return i.a.createElement(r.i,{location:n},i.a.createElement(l.Helmet,null,i.a.createElement("title",null,"Shivam Singh"),i.a.createElement("link",{rel:"canonical",href:"https://singhshivam.github.io"})))};var c="3292513715"}}]);
+//# sourceMappingURL=component---src-pages-pensieve-index-js-054d9fdf0e57d6d5505c.js.map
